@@ -1,0 +1,18 @@
+- Eigenschaften einer KG
+	- **Gründung**
+		- Zur Gründung einer Kommanditgesellschaft braucht man mindestens zwei Personen, mindestens einen Vollhafter der so genannte Komplementär und mindestens einen Teilhafter (Kommanditist). Ein Gesellschaftsvertrag kann Formlos sein wird in der Regel aber schriftlich abgeschlossen. Die Innenverhältnisse beginnen ab dem Vertragsabschluss und die Außenverhältnisse mit der Aufnahme der Geschäfte.
+	- **Name der Firma**
+		- Der Name ist Freiwählbar Hauptsache KG oder Kommanditgesellschaft ist enthalten
+	- **Geschäftsführung und Vertretung**
+		- Der Komplementär hat die alleinige Geschäftsführung und Vertretung der Gesellschaft. Als Kommanditist ist von der Leitung Ausgeschlossen und hat nur eine Widerspruchsrecht und ein Kontrollrecht. (Kontrollrecht heißt man hat das Recht die Geschäftsbücher auf Richtigkeit zu überprüfen)
+	- **Kapitalaufbringung**
+		- Es gibt keine Mindesthöhe an Kapitaleinlagen. Die KG kann neue Kommanditisten aufnehmen um das Kapital oder Kerditwürdigkeit zu verbessern
+	- **Haftung**
+		- Als Kommanditist haftet man nur mit seinen Einlagen.
+		- Als Komplementär haftet man:
+			- unbeschränkt
+			- Persönlich/unmittelbar
+			- solidarisch
+	- **Erfolgsverteilung**
+		- Soweit nicht anders bestimmt erhält jeder Gesellschafter zunächst einen Anteil in Höhe von 4 % seines Kapitalanteils, der Rest wird in einem angemessenen Verhältnis verteilt.
+-

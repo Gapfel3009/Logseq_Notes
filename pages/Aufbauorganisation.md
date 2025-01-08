@@ -1,0 +1,15 @@
+- Definition:
+	- Als Aufbauorganisation wird die Gliederung eines Unternehmens in einzelne Stellen bezeichnet. Aus dieser Hierarchie können die Weisungsbefugnisse abgeleitet werden. Sie sorgt damit für einen Groben Organisatorischen Rahmen.
+- Fragen:
+	- Welche Abteilungen/stellen existieren?
+	- Welche Stelle/Abteilung ist wofür verantwortlich?
+	- Wer kann wem Weisungen erteilen?
+- Instrumente:
+	- Stellenbeschreibungen
+	- [[Leitungssysteme]]
+	- Betriebspyramiden
+	- [[Organigramm]]
+- Ziel:
+	- Übersichtlichkeit herstellen
+	- Hierarchie aufzeigen
+	- Weisungen und Kompetenzen zuordnen

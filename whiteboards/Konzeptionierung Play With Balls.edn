@@ -1,0 +1,129 @@
+{:blocks (
+{:block/created-at 1723371716311
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked false
+:stroke ""
+:rotation 0
+:borderRadius 0
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [640 128]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2b7e4d90-57cb-11ef-be1a-e370a684b23b"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [136 144]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66b88ffb-4916-42b7-a0db-b85b6c1e0dfd"
+:nonce 1723371559910
+:italic false
+:text "Was ist Play With Balls?\nPWB soll eine Spiele Sammlung werden die sich rund um das Thema Ball dreht, dabei geht es Primär eine Testwiese zuhaben um spiele und Features zu testen und für später als Referenz zu haben"}}
+:block/updated-at 1723371716311} 
+{:block/created-at 1723372113460
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [730 178]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9a7ff770-57cb-11ef-be1a-e370a684b23b"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [144 304]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66b88ffb-4916-42b7-a0db-b85b6c1e0dfd"
+:nonce 1723371746088
+:italic false
+:text "V1:\nVersion 1 soll für den Anfang 3 Spiele umfassen: \nein Ball Dropper, Survivor ala Vampiresurviver/Bortato & einen Bubble shoter\nDas Spiel soll am PC und Am Handy spielbar sein \nDie Entwicklung läuft über Godot 4\n\nDie 3 Base Games Könnten sich im verlaufe der Entwicklung noch ändern"}}
+:block/updated-at 1723372113460} 
+{:block/created-at 1723372562305
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:index 2
+:scale [1 1]
+:type "image"
+:assetId "79dc07f0-57cd-11ef-be1a-e370a684b23b"
+:size [459.01324092623577 600.3516288947247]
+:opacity 1
+:id "79ddb5a0-57cd-11ef-be1a-e370a684b23b"
+:isAspectRatioLocked true
+:isLocked false
+:objectFit "fill"
+:point [896 -32]
+:parentId "66b88ffb-4916-42b7-a0db-b85b6c1e0dfd"
+:nonce 1723372549883
+:clipping 0}}
+:block/updated-at 1723372562305} 
+{:block/created-at 1723373869265
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke "gray"
+:borderRadius 0
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill "gray"
+:type "text"
+:size [1258 106]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8bead570-57cd-11ef-be1a-e370a684b23b"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1600 24]
+:lineHeight 1.2
+:fontSize 20
+:parentId "66b88ffb-4916-42b7-a0db-b85b6c1e0dfd"
+:nonce 1723372580392
+:italic false
+:text "Konzeptionierung Survivor Game:\nPlayer: Ball\nGegner: Andere Geographische Formen wie Dreiecke, vierecke etc. je mehr ecken desto stärker jede Form hat andere Fähigkeiten\nUpdate Möglichkeiten: Mehr Dmg, mehr LP, weniger Gegner schaden, schnellere Angriffsgeschwindigkeit und mehr geschwindigkeit"}}
+:block/updated-at 1723373869265})
+:pages (
+{:block/uuid #uuid "66b88ffb-4916-42b7-a0db-b85b6c1e0dfd"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "66b88ffb-4916-42b7-a0db-b85b6c1e0dfd"
+:name "konzeptionierung play with balls"
+:bindings 
+{}
+:nonce 1
+:assets [
+{:id "79dc07f0-57cd-11ef-be1a-e370a684b23b"
+:type "image"
+:src "../assets/image_1723372549584_0.png"
+:size [341 446]}]
+:shapes-index ("2b7e4d90-57cb-11ef-be1a-e370a684b23b" "9a7ff770-57cb-11ef-be1a-e370a684b23b" "79ddb5a0-57cd-11ef-be1a-e370a684b23b" "8bead570-57cd-11ef-be1a-e370a684b23b")}}
+:block/updated-at 1723373869265
+:block/created-at 1723371515585
+:block/type "whiteboard"
+:block/name "konzeptionierung play with balls"
+:block/original-name "Konzeptionierung Play With Balls"})}

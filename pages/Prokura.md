@@ -1,0 +1,26 @@
+- Die Prokura ist die höchste Form der Vertretungsmacht und kann nur vom Geschäftsinhaber ausdrücklich ernannt werden. Nach innen kann die Prokura eingeschränkt werden nach außen aber nicht. Prokuristen werden im Handelsregister eingetragen, wurdest du zum Prokuristen ernannt ist dies Sofortig auch wenn es noch nicht eingetragen ist. Ein Prokurist darf das Unternehmen voll Vertreten und darf daher auch außergewöhnliche Geschäfte machen.
+  Ein Prokurist darf zum beispiel:
+	- Eingehung von Wechselverbindlichkeiten
+	- Grundstücke erwerben
+	- Prozesse führen
+	- Darlehen und Kredite aufnehmen
+	- Eingehen von Bürgschaften
+	- Zweigniederlassung einrichten/schließen
+- Nur dem Inhaber erlaubt ist:
+  collapsed:: true
+	- Bilanz/Steuererklärung unterschreiben
+	- Eintragung in Handelsregister vornehmen
+	- Eid für das Unternehmen leisten
+	- Aufnahme von Gesellschaftern
+	- Prokura erteilen/entziehen
+	- Betrieb einstellen oder Unternehmen veräußern
+	- Insolvenzverfahren eröffnen
+- Es gibt 4 unter Arten der Prokura:
+	- Einzelprokura:
+		- ein Prokurist alleine vertritt das Unternehmen
+	- Gesamtprokura:
+		- Mehrere Prokuristen vertreten das Unternehmen gemeinsam
+	- Filialprokura
+		- Prokurist für eine Zweigstelle
+	- Gemischte Prokura:
+		- Prokurist der nur mit Geschäftsführer handeln darf

@@ -1,0 +1,14 @@
+- Eigenschaften einer UG
+	- eine UG ist eine Sonderform der GmbH bei der man keine 25.000 Euro zur Gründung braucht sondern mindestens 1 Euro, der betrag ist also egal er muss aber ein Runder betrag sein also ohne Cent. Aber das Kapital wird durch Jährliche Rücklagen immer stärker aufgestockt
+	- **Gründung**
+		- Keine Anbagen
+	- **Name der Firma**
+		- muss UG enthalten
+	- **Geschäftsführung und Vertretung**
+		- Keine Anbagen
+	- **Kapitalaufbringung**
+		- Keine Anbagen
+	- **Haftung**
+		- Keine Anbagen
+	- **Erfolgsverteilung**
+		- Keine Anbagen

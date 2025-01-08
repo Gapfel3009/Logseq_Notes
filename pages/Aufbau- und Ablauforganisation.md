@@ -1,0 +1,2 @@
+- In der Organisationslehre werden 2 Arten der Unternehmensorganisation unterschieden, der [[Aufbauorganisation]] und der [[Ablauforganisation]]
+-

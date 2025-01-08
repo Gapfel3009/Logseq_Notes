@@ -1,0 +1,14 @@
+- Eigenschaften einer GmbH
+	- **Gründung**
+		- Als Kapitalgesellschaft ist die Hauptinteresse Kapital Gewinnung durch Gesellschafter und nicht deren Mitarbeitern. Kapitalgesellschafter sind juristische Personen d.h. sie haben eine Rechtspersönlichkeit. Eine GmbH entsteht durch die Eintragung im Handelsregister. Eine GmbH kann mindestens einer Person gegründet werden. Der Gesellschaftsvertrag muss notariell bekundigt werden.
+	- **Name der Firma**
+		- Name ist Egal muss GmbH enthalten
+	- **Geschäftsführung und Vertretung**
+		- Die Führung der GmbH liegt beim den gesetzlich vorgeschriebenen Organen: ein Oder mehrere Geschäftsführer, die Gesellschafterversammlung und der Aufsichtsrat (ab 500 Arbeitnehmern).
+		- Grundsätzlich gilt im Innenverhältnis die gemeinsame Geschäftsführung und im Außenverhältnis die Gesamtvertretung durch alle Geschäftsführer. Im Gesellschaftsvertrag kann allerdings eine abweichende Regelung getroffen werden. Die Beschränkung der Geschäftsführungs- und Vertretungsmacht ist im Innenverhältnis möglich, im Außenverhältnis aber unwirksam.
+	- **Kapitalaufbringung**
+		- Es müssen mindestens 25.000 Euro als Stammkapital eingezahlt werden von wie vielen und wieviel vom einzelnen gezahlt wird ist dabei egal. Theoretisch wäre es möglich 1 Euro von 25.000 Gesellschaftern zu nehemen.
+	- **Haftung**
+		- Die Haftung erstreckt sich nur auf das Gesellschaftsvermögen.
+	- **Erfolgsverteilung**
+		- Die Gewinnverteilung erfolgt entsprechend der Anteile am Stammkapital.

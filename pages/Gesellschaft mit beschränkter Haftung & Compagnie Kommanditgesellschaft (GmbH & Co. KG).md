@@ -1,0 +1,15 @@
+- Eigenschaften einer GmbH & Co.KG
+	- die GmbH & Co. KG ist eine besondere Form der KG bei der der Komplementär keine Natürlicher Person sondern eine GmbH ist.
+	- **Gründung**
+		- Die Gründung ist wie bei der [[Kommanditgesellschaft (KG)]] nur das der Komplementär eine GmbH, entweder eine bestehende oder eine extra dafür gegründete GmbH. nach Beginn der Geschäftstätigkeit muss die GmbH & Co. KG im Handelsregister eingetragen werden und die Anmeldung muss Notariell beglaubigt werden.
+	- **Name der Firma**
+		- Frei wählbar aber GmbH & Co. KG muss enthalten sein.
+	- **Geschäftsführung und Vertretung**
+		- Die Geschäftsführung liegt bei dem Komplementär also der GmbH, die Kommanditen ist von der Geschäftsführung ausgeschlossen. Es seiden im Gesellschaftsvertrag ist es anders festgehalten
+	- **Kapitalaufbringung**
+		- 25.000 Euro Mindestkapital für die Gründung der GmbH, ist die vorhanden kann die GmbH als Komplementär so viel oder wenig in das Kapital stecken wie sie will.
+	- **Haftung**
+		- Der unbeschränkten Haftung der Komplementär-GmbH steht die beschränkte Haftung der Kommanditisten gegenüber.
+	- **Erfolgsverteilung**
+		- Zuerst werden die Komplementärgehälter ausgezahlt. Von dem Rest des Gewinns bekommt jeder Gesellschafter vier Prozent auf seine Einlage. Das übrig Gebliebene wird nun anteilsmäßig verteilt.
+-

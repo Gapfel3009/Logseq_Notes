@@ -1,0 +1,7 @@
+- IPv6-Adressen haben eine Länge von 128 Bits die anders als bei IPv4 nicht im Dezimalsystem sondern im Hexadezimal dargestellt werden, somit hat man insgesamt mehr IP-Adressen als mit IPv4.
+- Arten von IPv6-Adressen:
+	- Unicast: adressen für ein einzelnes Interface
+	- Anycast: Adressen für mehrere Interfaces, wobei nur eines davon das Paket empfängt
+	- Multicast: Adressen für mehrere Interfaces, die alle das selbe Paket empfangen
+	- Broadcast: Existieren nicht und wird mit Multicast-Adressen realisiert
+-

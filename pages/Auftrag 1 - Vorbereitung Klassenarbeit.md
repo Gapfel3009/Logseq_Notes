@@ -1,0 +1,68 @@
+- In der Ersten stunde von LF04 haben wir erfahren dass wir in der folgenden Woche eine Klausur schreiben werden das ist die Vorbereitung die uns zur Verfügung gestellt wurden:
+	- Erläutern Sie folgende Begriffe mit eigenen Worten / Formulierungen:
+		- Datenschutz
+			- Beim Datenschutz geht es darum die Rechte auf informationelle Selbstbestimmung zu schützen und Missbräuchlichen gebrauch von Daten zu verhindern. Zur Verarbeitung Personenbezogener Daten gibt es Datenschutzgesetze die Regeln festlegen
+		- Datensicherheit
+			- Bei der Datensicherheit geht es darum alle Daten zu schützen egal ob sie Personenbezogen sind oder nicht. Es geht bei der Datensicherheit also nicht darum zu klären welche daten bezogen werden dürfen und welche geschützt sind, sondern darum wie man die daten schützt.
+		- Informationssicherheit
+			- Bei der Informationssicherheit geht es um den Schutz von Informationen/daten dabei ist es egal ob es sich um Digitale oder Analoge Informationen handelt.
+		- Schutzziele:
+		  id:: 665b0422-9e29-4071-9811-9520103b99e0
+			- Verfügbarkeit
+				- Der Zugriff auf Daten muss innerhalb eines vereinbarten Zeitrahmens gewährleistet sein.
+			- Integrität
+				- Die Gewährleistung dass die Daten vom Absender Vollständig sind und unverändert werden.
+			- Vertraulichkeit
+				- Nur Bestimmte Personen dürfen wissen dass es die Daten gibt und was darin ist.
+-
+- Nenne und erläutere drei Schutzziele, die in der DSGVO aus Sicht der Betroffenen gefordert werden.
+	- Siehe oben unter ((665b0422-9e29-4071-9811-9520103b99e0))
+-
+- Im Netz werden Endgeräte mit / von verschiedenen Schadprogrammen angegriffen. Nennen und erläutern Sie in diesem Zusammenhang die Begriffe:
+	- Ransomware
+		- Definition:
+			- Ransomware ist eine Art Schadsoftware die den Zugriff auf das Computersystem einschränkt und alle daten verschlüsselt, um die Verschlüsselung zu lösen Vordern die Angreifer oft ein Lösegeld.
+		- Beispiele:
+			- WannaCry https://www.youtube.com/watch?v=yewkv8pTAu0
+	- Adware
+		- Definition:
+			- Adware ist eine Art Schadsoftware die unerwünschte Werbung, häufig in form von pop-up Werbung, auf deinem Betriebssystem anzeigt
+-
+-
+- Worin liegt der unterschied zwischen Viren, Würmern und Trojanern
+	- Vieren
+		- **Definition**: Schadprogramme, die sich in legitime Dateien oder Programme einfügen.
+		- **Verbreitung**: Aktivierung durch Benutzeraktionen (z.B. Öffnen einer infizierten Datei).
+		- **Verhaltensweise**: Infizieren andere Dateien auf demselben System oder Netzwerk, benötigen Wirt-Programme.
+		- **Schaden**: Zerstörung oder Veränderung von Daten, Störung des Systembetriebs.
+	- Würmer
+		- **Definition**: Schadprogramme, die sich selbstständig verbreiten, ohne Wirt-Programme.
+		- **Verbreitung**: Automatisch über Netzwerke, E-Mails oder andere Kommunikationswege.
+		- **Verhaltensweise**: Nutzen Sicherheitslücken zur Verbreitung, benötigen keine Benutzerinteraktion.
+		- **Schaden**: Überlastung von Netzwerken, Systemressourcen erschöpfen, Verbreitung weiterer Malware.
+	- Trojaner
+		- **Definition**: Schadprogramme, die sich als nützliche Software tarnen.
+		- **Verbreitung**: Durch Benutzer heruntergeladen und installiert, oft als nützliche Anwendungen getarnt.
+		- **Verhaltensweise**: Erfüllen versteckte bösartige Funktionen (z.B. Datendiebstahl, Installation weiterer Malware).
+		- **Schaden**: Hintertüren für Cyberkriminelle schaffen, Daten ausspionieren, Systeme kompromittieren.
+-
+- was versteht man unter dem Begriff PDCA im Zusammenhang mit der Informationssicherheit?
+	- **Plan (Planen)**:
+		- **Analyse** der aktuellen Situation.
+		- **Risikoanalyse**: Identifizieren und Bewerten von Sicherheitsrisiken.
+		- **Zielsetzung**: Festlegen von Zielen und Maßnahmen zur Verbesserung der Informationssicherheit.
+		- **Ressourcenplanung**: Definieren der erforderlichen Ressourcen (Personal, Technologie, Budget).
+	- **Do (Umsetzen)**:
+		- **Implementierung** der geplanten Maßnahmen und Sicherheitskontrollen.
+		- **Schulung**: Training der Mitarbeiter zu den neuen Sicherheitsrichtlinien und -praktiken.
+		- **Dokumentation**: Erstellen von Dokumentationen und Protokollen zu den durchgeführten Maßnahmen.
+	- **Check (Überprüfen)**:
+		- **Überwachung**: Kontinuierliches Monitoring der implementierten Maßnahmen.
+		- **Überprüfung** der Ergebnisse und Leistung durch Audits und Tests.
+		- **Bewertung**: Vergleich der tatsächlichen Leistung mit den geplanten Zielen.
+	- **Act (Handeln)**:
+		- **Korrekturmaßnahmen**: Anpassen und Optimieren der Maßnahmen basierend auf den Überprüfungsergebnissen.
+		- **Verbesserung**: Kontinuierliche Verbesserung der Informationssicherheitsmaßnahmen.
+		- **Berichterstattung**: Regelmäßige Berichte über den Fortschritt und die Effektivität der Sicherheitsmaßnahmen.
+-
+-

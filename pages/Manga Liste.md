@@ -1,0 +1,25 @@
+public:: true
+
+- Tokyo Ghoul: 1 -14 (verfollständigt)
+- Tokyo Ghoul: re 1- 16 (Verfollständigt)
+- That Time I Got Reincarnated as a Slime 1-7 + 20 als spezial
+- Tanya the Evil 1 - 8
+- Blue lock 1-3
+- Your lie in april 1 -2
+- Monster 1-4
+- Angels of Death 1-4
+- Teach me how to kill you 1-3
+- one piece 1-7
+- The rising of the shield hero 1-7
+- Hells Paradise 1-4
+- Boys abyss 1-13
+- Frieren 1-3
+- Devils Line 1-2
+- Attack on Titan 1
+- Death Note 1-3
+- Dead Mount Death Play 1-3
+- Dick fight Island 1
+- Boku no Hero Accademia 1 -2
+- Call of Cthullhu
+- Kakegururi 1- 2
+- Haikyuu 1-10

@@ -1,0 +1,13 @@
+- Eigenschaften einer AG
+	- **Gründung**
+		- Die Gründung einer Aktiengesellschaft erfolgt zunächst durch eine Satzung bzw. einen Gesellschaftsvertrag der Notariell Beurkundet werden muss. Bis die AG nicht im Handelsregister eingetragen ist aber der Gesellschaftsvertrag steht spricht man von einer Voraktiengesellschaft.
+	- **Name der Firma**
+		- Frei wählbar Hauptsache AG oder Aktiengesellschaft ist enthalten.
+	- **Geschäftsführung und Vertretung**
+		- Die Leitung der AG liegt bei den gesetzlich vorgeschriebenen Organen, insbesondere beim Vorstand (eine oder mehrere Personen). Der Vorstand wird durch den Aufsichtsrat bestellt, der wiederum von der Hauptversammlung (Versammlung aller Aktionäre) gewählt wird. Der Vorstand vertritt die Gesellschaft nach innen und außen und hat die gesamt Verantwortung für die Wirtschaftlichen Entscheidungen.
+	- **Kapitalaufbringung**
+		- Zur Gründung sind mindestens 50.000 Euro von Nöten, diese werden in Aktien Zerlegt die man dann an der Börse Handeln kann.
+	- **Haftung**
+		- Die Ag haftet mit dem Gesellschaftsvermögen, der Aktionär mit der höhe seine Einlage (Wert der Aktie)
+	- **Erfolgsverteilung**
+		- Gewinnverteilung erfolgt entsprechend dem Beschluss der Hauptversammlung.

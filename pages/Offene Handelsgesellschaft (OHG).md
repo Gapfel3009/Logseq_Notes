@@ -1,0 +1,17 @@
+-
+- Eigenschaften einer OHG
+	- **Gründung**
+		- Eine OHG entsteht durch den vertraglichen Zusammenschluss mehrerer Personen in form eines Gesellschaftervertrags. Ein Gesellschaftsvertrag kann Formlos sein wird in der Regel aber schriftlich abgeschlossen. Die Innenverhältnisse beginnen ab dem Vertragsabschluss und die Außenverhältnisse mit der Aufnahme der Geschäfte.
+	- **Name der Firma**
+		- Solange OHG oder Offene Handelsgesellschaft im Namen enthalten ist, ist der Name frei Wählbar
+	- **Geschäftsführung und Vertretung**
+		- Alle Gesellschafter sind zur Geschäftsführung verpflichtet. Bei gewöhnlichen Geschäften darf ein Gesellschafter alleine handeln bei außergewöhnlichen Geschäften müssen alle zustimmen.
+	- **Kapitalaufbringung**
+		- Wurde die höhe der Kapitaleinlagen nicht definiert zahlen alle Gesellschafter den selben Beitrag. ein Mindesthöhe der Einlagen gibt es nicht.
+	- **Haftung**
+		- Die Gesellschafter einer OHG Haften:
+			- Unbeschränkt mit Geschäfts und Privat vermögen
+			- Persönlich/unmittelbar
+			- Solidarisch (nicht meine Schulden, unsere Schulden)
+	- **Erfolgsverteilung**
+		- Soweit nicht anders bestimmt erhält jeder Gesellschafter zunächst einen Anteil in Höhe von 4 % seines Kapitalanteils, der Rest wird nach Köpfen verteilt.

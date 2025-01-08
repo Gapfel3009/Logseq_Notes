@@ -1,0 +1,15 @@
+- Voraussetzung für einen Lieferungsverzug
+	- Die Ware kommt nicht an oder nicht rechtzeitig an
+	- Verkäufer verschuldet die Verspätung
+		- kann durch höhere Gewallt beeinflusst werden
+- Bedingungen:
+	- Lieferung muss fällig sein:
+		- Lieferung kalendarisch bestimmbar?
+			- Keine Mahnung:
+				- Lieferung am 06.Juni..
+				- Lieferung 5 Tage Bestellbestätigung
+				- Lieferung im Januar
+			- Mahnung:
+				- Lieferung Sofort
+				- Lieferung so schnell wie möglich
+				- Lieferung ab Januar
