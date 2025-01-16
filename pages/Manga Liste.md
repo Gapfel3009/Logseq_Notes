@@ -9,7 +9,7 @@ public:: true
 - Monster 1-4
 - Angels of Death 1-4
 - Teach me how to kill you 1-3
-- one piece 1-7
+- one piece 1-10
 - The rising of the shield hero 1-7
 - Hells Paradise 1-4
 - Boys abyss 1-13
