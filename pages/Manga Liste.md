@@ -12,7 +12,7 @@ public:: true
 - one piece 1-10
 - The rising of the shield hero 1-7
 - Hells Paradise 1-4
-- Boys abyss 1-13
+- Boys abyss 1-15
 - Frieren 1-3
 - Devils Line 1-2
 - Attack on Titan 1
