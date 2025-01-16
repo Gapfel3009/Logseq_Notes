@@ -23,3 +23,5 @@ public:: true
 - Call of Cthullhu
 - Kakegururi 1- 2
 - Haikyuu 1-10
+- Gute Nacht Pun Pun 1 - 2
+-
