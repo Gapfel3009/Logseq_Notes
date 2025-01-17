@@ -99,6 +99,9 @@
 		- [[Lernfeld 04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]]
 		- [[Lernfeld 05 Software zur Verwaltung von Daten anpassen]]
 	- [[2. Lehrjahr]]
+		- [[Lernfeld 08]]
+			- [[LF08 Projektsituationen]]
+				-
 		- [[Lernfeld 09 ]]
 			- [[IPv6]]
 				- [[IPv6 Subnetting]]
