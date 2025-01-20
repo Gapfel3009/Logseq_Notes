@@ -20,6 +20,7 @@
 						- [[Autoritär]]
 						- [[Kooperativ]]
 						- [[laissez-faire]]
+					- [[Führungstechniken]]
 					- [[Führungsziele]]
 			- [[Lernsituation 3 Organisation]]
 				- [[Organisation]] √

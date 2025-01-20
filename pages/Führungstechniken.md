@@ -4,4 +4,5 @@
 		- Ziele werden zusammen mit den Mitarbeitern einer Abteilung vereinbart. Weitestgehend haben Mitarbeiter freie Hand bei Erfüllung dieser Ziele
 	- Management by Delegation (Führen durch Aufgabendelegation)
 		- Mitarbeiter bekommen klar abgegrenzte Aufgabenbereiche und Kompetenzen übertrage, die sie eigenständig erfüllen.
-	-
+	- Management by Exception (Führen durch Ausnahmeprinzip)
+		- Eingreifen der Vorgesetzten in Ausnahmefällen, Gesamtverantwortung bleibt bei den Vorgesetzten.
