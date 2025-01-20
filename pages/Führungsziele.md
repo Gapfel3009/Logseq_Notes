@@ -1,1 +1,2 @@
-- Definition: Führungsziele Grundsätzliches Verhalten des Vorgesetzten gegenüber den Mitarbeitern, um diese zu einer bestimmten Zielerreichung hinzulenken.
+- Definition: Grundsätzliches Verhalten des Vorgesetzten gegenüber den Mitarbeitern, um diese zu einer bestimmten Zielerreichung hinzulenken.
+- Grundsätzlich unterscheidet man in 3 Arten von Führungszielen
