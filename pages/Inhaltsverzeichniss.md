@@ -50,6 +50,7 @@
 			- [[Lernsituation 7 Preisbildung unter Wettbewerb]]
 		- [[Lernfeld 02 Arbeitsplätze nach Kundenwunsch ausstatten]]
 			- [[Geschäftsprozesse]]
+			  collapsed:: true
 				- [[Rechtsichere Angebote schreiben]]
 				- [[Vertragsarten]]
 				  collapsed:: true
@@ -92,6 +93,7 @@
 					  collapsed:: true
 						- [[ABC-Analyse]]
 					- [[Finanzierung]]
+					  collapsed:: true
 						- [[Barkauf]]
 						- [[Ratenkauf]]
 						- [[Leasing]]
