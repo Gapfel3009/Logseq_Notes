@@ -31,4 +31,11 @@
 			- wechselseitig
 	- Laissez-faire
 		- Prinzip
-			- Mitarbeiter werden größtmögliche Freiheiten einger
+			- Mitarbeiter werden größtmögliche Freiheiten eingeräumt
+			- kaum/keine Kontrolle der Mitarbeiter
+			- Aufgrund von Gleichgültigkeit des Chefs kaum/keine Sanktionen bei Fehlern
+		- Gelingensbedingungen
+			- Verantwortungsbewusste Mitarbeiter
+			- eigenständige Mitarbeiter
+		- Art der Kommunikation
+			- Bottom up (von unten nach oben)
