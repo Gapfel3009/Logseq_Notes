@@ -13,5 +13,8 @@
 			- Top down. (Von Oben nach unten)
 	- Kooperativ
 		- Prinzip
-			- Mitarbeiter werden an
+			- Mitarbeiter werden am Entscheidungsprozess beteiligt
+			- ständiger Informationsaustausch zwischen Vorgesetzten und Mitarbeitern
+			- Eigenverantwortung wird erwartet
+			- angemessenes
 	- Laissez-faire
