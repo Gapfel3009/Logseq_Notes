@@ -15,11 +15,12 @@
 					- [[Formulierung des Unternehmensleitbildes]]
 					- [[Probleme und Folgen]]
 			- [[Lernsituation2 Führungs-Stile|-Ziele]]
-				- [[Führungsstile]] √
-					- [[Autoritär]]
-					- [[Kooperativ]]
-					- [[laissez-faire]]
-				- [[Führungsziele]]
+				- [[Lernsituation2 Führungs-Stile/Ziele]]
+					- [[Führungsstile]] √
+						- [[Autoritär]]
+						- [[Kooperativ]]
+						- [[laissez-faire]]
+					- [[Führungsziele]]
 			- [[Lernsituation 3 Organisation]]
 				- [[Organisation]] √
 				- [[Aufbau- und Ablauforganisation]]
