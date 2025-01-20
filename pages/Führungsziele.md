@@ -2,19 +2,32 @@
 - Grundsätzlich unterscheidet man in 3 Arten von Führungszielen Autoritär, Kooperativ und Laissez-faire diese Führungsziele beschreiben auch den entscheidungsspielraum der Mitarbeiter
 	- Autoritär
 		- Prinzip:
+		  collapsed:: true
 			- Vorgesetzter trifft alle Entscheidungen
 			- Mitarbeiter Arbeiten mittels detaillierter Weisungen
 			- laufende Kontrolle der Mitarbeiter durch Chef
 			- Harte Strafen bei Fehlverhalten
 		- Gelingensbedingungen:
+		  collapsed:: true
 			- Vertrauen auf Kompetenz des Chefs
 			- Folgsame Mitarbeiter
 		- Art der Kommunikation
+		  collapsed:: true
 			- Top down. (Von Oben nach unten)
 	- Kooperativ
 		- Prinzip
+		  collapsed:: true
 			- Mitarbeiter werden am Entscheidungsprozess beteiligt
 			- ständiger Informationsaustausch zwischen Vorgesetzten und Mitarbeitern
 			- Eigenverantwortung wird erwartet
-			- angemessenes
+			- angemessenes Sanktionsverhalten
+		- Gelingensbedingungen
+		  collapsed:: true
+			- engagierte Mitarbeiter
+			- Beiderseitige Teamfähigkeit
+			- gegenseitiges Vertrauen
+		- Art der Kommunikation
+		  collapsed:: true
+			- wechselseitig
 	- Laissez-faire
+		-
