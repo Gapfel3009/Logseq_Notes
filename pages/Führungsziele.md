@@ -1,13 +1,13 @@
 - Definition: Grundsätzliches Verhalten des Vorgesetzten gegenüber den Mitarbeitern, um diese zu einer bestimmten Zielerreichung hinzulenken.
 - Grundsätzlich unterscheidet man in 3 Arten von Führungszielen Autoritär, Kooperativ und Laissez-faire diese Führungsziele beschreiben auch den entscheidungsspielraum der Mitarbeiter
 	- Autoritär
-		- Prinzip:
+		- Prinzip
 		  collapsed:: true
 			- Vorgesetzter trifft alle Entscheidungen
 			- Mitarbeiter Arbeiten mittels detaillierter Weisungen
 			- laufende Kontrolle der Mitarbeiter durch Chef
 			- Harte Strafen bei Fehlverhalten
-		- Gelingensbedingungen:
+		- Gelingensbedingungen
 		  collapsed:: true
 			- Vertrauen auf Kompetenz des Chefs
 			- Folgsame Mitarbeiter
@@ -30,4 +30,5 @@
 		  collapsed:: true
 			- wechselseitig
 	- Laissez-faire
-		-
+		- Prinzip
+			- Mitarbeiter werden größtmögliche Freiheiten einger
