@@ -1,2 +1,4 @@
-- Führungstechniken sind Techniken und Methoden um eine Firma zu führen oder ein Projekt zu leiten, die Techniken sind unabhängig von den [[Führungsstile]]n, das heißt du kannst theoretisch irgendeine Führungstechnik mit irgendeinem Führungsstil nutzen, aber einige  Führungstechniken eingen m
--
+- Führungstechniken sind Techniken und Methoden um eine Firma zu führen oder ein Projekt zu leiten, die Techniken sind unabhängig von den [[Führungsstile]]n, das heißt du kannst theoretisch irgendeine Führungstechnik mit irgendeinem Führungsstil nutzen, aber einige  Führungstechniken eignen sich für manche Techniken besser als andere.
+- Beispiel Techniken:
+	- Management by Objectives(Führen durch Zielvereinbarung)
+		- Ziele werden zusammen mit den Mitarbeitern einer Abteilung vereinbart.
