@@ -32,7 +32,6 @@
 						- [[Gantt-Diagramm]]
 			- [[Lernsituation 4 Rechtsformen]]
 				- [[Unternehmensformen]] √
-				  collapsed:: true
 					- [[Einzelunternehmen]]
 					- [[Gesellschaftsunternehmen]]
 						- [[Personengesellschaften]]
