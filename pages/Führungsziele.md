@@ -43,4 +43,5 @@
 		  collapsed:: true
 			- Bottom up (von unten nach oben)
 -
-- Führungsziele sind von
+- Führungsziele sind von [[Führungstechniken]] zu unterscheiden
+-

@@ -1,0 +1,1 @@
+- Führungstechniken sind Techniken und Methoden um eine Firma zu führen oder ein Projekt zu leiten, die Techniken sind unabhängig von den [[Führungsziele]]n, das heißt du kannst theoretisch i
