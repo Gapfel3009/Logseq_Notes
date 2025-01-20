@@ -7,6 +7,11 @@
 			- laufende Kontrolle der Mitarbeiter durch Chef
 			- Harte Strafen bei Fehlverhalten
 		- Gelingensbedingungen:
-			- Vertrauen auf Kompetenz des Che
+			- Vertrauen auf Kompetenz des Chefs
+			- Folgsame Mitarbeiter
+		- Art der Kommunikation
+			- Top down. (Von Oben nach unten)
 	- Kooperativ
+		- Prinzip
+			- Mitarbeiter werden an
 	- Laissez-faire
