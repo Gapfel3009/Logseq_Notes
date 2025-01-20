@@ -31,11 +31,16 @@
 			- wechselseitig
 	- Laissez-faire
 		- Prinzip
+		  collapsed:: true
 			- Mitarbeiter werden größtmögliche Freiheiten eingeräumt
 			- kaum/keine Kontrolle der Mitarbeiter
 			- Aufgrund von Gleichgültigkeit des Chefs kaum/keine Sanktionen bei Fehlern
 		- Gelingensbedingungen
+		  collapsed:: true
 			- Verantwortungsbewusste Mitarbeiter
 			- eigenständige Mitarbeiter
 		- Art der Kommunikation
+		  collapsed:: true
 			- Bottom up (von unten nach oben)
+-
+- Führungsziele sind von
