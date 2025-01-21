@@ -24,6 +24,7 @@
 					- [[Führungstechniken]]
 					- [[Führungsziele]]
 			- [[Lernsituation 3 Organisation]]
+			  collapsed:: true
 				- [[Organisation]] √
 				- [[Aufbau- und Ablauforganisation]]
 					- [[Aufbauorganisation]]
@@ -32,6 +33,7 @@
 					- [[Ablauforganisation]]
 						- [[Gantt-Diagramm]]
 			- [[Lernsituation 4 Rechtsformen]]
+			  collapsed:: true
 				- [[Unternehmensformen]] √
 					- [[Einzelunternehmen]]
 					- [[Gesellschaftsunternehmen]]
@@ -51,6 +53,7 @@
 			  collapsed:: true
 			- [[Lernsituation 7 Preisbildung unter Wettbewerb]]
 		- [[Lernfeld 02 Arbeitsplätze nach Kundenwunsch ausstatten]]
+		  collapsed:: true
 			- [[Geschäftsprozesse]]
 				- [[Rechtsichere Angebote schreiben]]
 				- [[Vertragsarten]]
@@ -62,15 +65,12 @@
 				- [[Kaufvertragsstörungen]]
 				- [[Exkurse]]
 					- [[Make or Buy]]
-					  collapsed:: true
 						- [[Nutzwertanalyse]]
 					- [[Geschäftsfähigkeit]]
-					  collapsed:: true
 						- [[Geschäftsunfähigkeit]]
 						- [[Beschränkt Geschäftsfähigkeit]]
 						- [[Unbeschränkte oder volle Geschäftsfähigkeit]]
 					- [[Finanzierung]]
-					  collapsed:: true
 						- [[Barkauf]]
 						- [[Ratenkauf]]
 						- [[Leasing]]
