@@ -17,6 +17,7 @@
 			- [[Lernsituation2 Führungs-Stile|-Ziele]]
 				- [[Lernsituation2 Führungs-Stile/Ziele]]
 					- [[Führungsstile]] √
+					  collapsed:: true
 						- [[Autoritär]]
 						- [[Kooperativ]]
 						- [[laissez-faire]]
