@@ -101,7 +101,7 @@
 		- [[Lernfeld 04 Schutzbedarfsanalyse im eigenen Arbeitsbereich durchführen]]
 		- [[Lernfeld 05 Software zur Verwaltung von Daten anpassen]]
 	- [[2. Lehrjahr]]
-		-
+		- [[Lernfeld 06]]
 		- [[Lernfeld 08]]
 		  collapsed:: true
 			- [[LF08 Projektsituationen]]
