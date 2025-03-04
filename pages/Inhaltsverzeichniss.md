@@ -49,7 +49,6 @@
 			- [[Lernsituation 6 Der Markt und seine Struktur]]
 			- [[Lernsituation 7 Preisbildung unter Wettbewerb]]
 		- [[Lernfeld 02 Arbeitsplätze nach Kundenwunsch ausstatten]]
-		  collapsed:: true
 			- [[Geschäftsprozesse]]
 				- [[Rechtsichere Angebote schreiben]]
 				- [[Vertragsarten]]
