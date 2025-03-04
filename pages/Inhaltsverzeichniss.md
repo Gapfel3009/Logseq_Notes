@@ -24,7 +24,6 @@
 					- [[Führungstechniken]]
 					- [[Führungsziele]]
 			- [[Lernsituation 3 Organisation]]
-			  collapsed:: true
 				- [[Organisation]] √
 				- [[Aufbau- und Ablauforganisation]]
 					- [[Aufbauorganisation]]
