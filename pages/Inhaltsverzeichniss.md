@@ -42,7 +42,6 @@
 							- [[Kommanditgesellschaft (KG)]]
 							- [[Gesellschaft mit beschränkter Haftung & Compagnie Kommanditgesellschaft (GmbH & Co. KG)]]
 						- [[Kapitalgesellschaften]]
-						  collapsed:: true
 							- [[Gesellschaft mit beschränkter Haftung (GmbH)]]
 							- [[Aktiengesellschaft (AG)]]
 							- [[Unternehmergesellschaft (UG)]]
