@@ -33,7 +33,6 @@
 					- [[Ablauforganisation]]
 						- [[Gantt-Diagramm]]
 			- [[Lernsituation 4 Rechtsformen]]
-			  collapsed:: true
 				- [[Unternehmensformen]] √
 					- [[Einzelunternehmen]]
 					- [[Gesellschaftsunternehmen]]
