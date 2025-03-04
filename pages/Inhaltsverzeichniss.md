@@ -49,7 +49,6 @@
 							- [[Unternehmergesellschaft (UG)]]
 			- [[Lernsituation 5 Kaufmann & Handelsregister & Vollmachten]]
 			- [[Lernsituation 6 Der Markt und seine Struktur]]
-			  collapsed:: true
 			- [[Lernsituation 7 Preisbildung unter Wettbewerb]]
 		- [[Lernfeld 02 Arbeitsplätze nach Kundenwunsch ausstatten]]
 		  collapsed:: true
